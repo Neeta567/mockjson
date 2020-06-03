@@ -9,7 +9,7 @@
 
 {"id":2,"body":"comment2","postid":2}
 ],
-"profile":[
-{"name":"Profile1"}
-]
+"profile":{
+"name":"Profile1"
+}
 }
