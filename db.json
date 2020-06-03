@@ -5,7 +5,7 @@
 {"id":2,"titel":"post3","description":"this is third item"}
 ],
 "comments":[
-{"id":1,"body":"comment1","postid":1}
+{"id":1,"body":"comment1","postid":1},
 
 {"id":2,"body":"comment2","postid":2}
 ],
