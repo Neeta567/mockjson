@@ -1,8 +1,7 @@
 {
   "posts":[
-{"id":1,"titel":"post1","description":"this is first item"},
-{"id":2,"titel":"post2","description":"this is second item"},
-{"id":2,"titel":"post3","description":"this is third item"}
+    {"Name":"Neeta Bharti","Email":"neeta.bharti@accenture.com","password":"1234","confirmPassword":"1234",
+"HouseNo":123,"state":"Indore","Country":"MP","MobileNo":8989898989}
 ],
 "comments":[
 {"id":1,"body":"comment1","postid":1},
